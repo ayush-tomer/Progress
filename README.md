@@ -6,4 +6,5 @@ Day 4 -> 18 Nov -> HTML revision started. Very minor or no commits.<br>
 Day 5 -> 19 Nov -> HTML revision completed. Very minor or no commits.<br>
 Day 6 -> 20 Nov -> CSS revision started. Very minor or no commits.<br>
 Day 7 -> 21 Nov -> CSS revision continued. Very minor or no commits.<br>
-Day 8 -> 22 Nov -> CSS revision completed. Very minor or no commits.
+Day 8 -> 22 Nov -> CSS revision completed. Very minor or no commits.<br>
+Day 9 -> 23 Nov -> Instagram Clone Project review. Very minor or no commits.
