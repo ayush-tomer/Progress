@@ -11,4 +11,5 @@ Day 9 -> 23 Nov -> Instagram Clone Project review. Very minor or no commits.<br>
 Day 10 -> 24 Nov -> JS revision started. Very minor or no commits.<br>
 Day 11 -> 25 Nov -> JS revision continued. Very minor or no commits.<br>
 Day 12 -> 26 Nov -> JS revision continued. Very minor or no commits.<br>
-Day 13 -> 27 Nov -> JS revision completed. Very minor or no commits.
+Day 13 -> 27 Nov -> JS revision completed. Very minor or no commits.<br>
+Day 14 -> 28 Nov -> Some miscellaneous topics of HTML, CSS, JS. Very minor or no commits.
