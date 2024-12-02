@@ -15,4 +15,5 @@ Day 13 -> 27 Nov -> JS revision completed. Very minor or no commits.<br>
 Day 14 -> 28 Nov -> Some miscellaneous topics of HTML, CSS, JS. Very minor or no commits.<br>
 Day 15 -> 29 Nov -> Some miscellaneous topics of HTML, CSS, JS. Very minor or no commits.<br>
 Day 16 -> 30 Nov -> Some miscellaneous topics of HTML, CSS, JS. Very minor or no commits.<br>
-Day 17 -> 1 Dec -> Miscellaneous topics completed. Very minor or no commits.
+Day 17 -> 1 Dec -> Miscellaneous topics completed. Very minor or no commits.<br>
+Day 18 -> 2 Dec -> Asynchronous JS. Pushed some code in repo -> https://github.com/ayush-tomer/JS
